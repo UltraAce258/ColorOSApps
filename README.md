@@ -4,10 +4,10 @@
 适用于搭载ColorOS15、RealmeUI6.0的OPPO、一加、Realme手机，具体兼容性自测。以下为原文：
 
 #ColorOS15# #ColorOS14# #realmeUI6.0#
-应用内/软件商店推送
-——————系统应用类——————
-小布记忆_15.1.81： https://jiumuze.lanzouq.com/i3XTQ2x4niub 
-健康_4.22.9： https://www.123865.com/s/7AoDVv-vLrPH 
+    应用内/软件商店推送
+    ——————系统应用类——————
+    小布记忆_15.1.81： https://jiumuze.lanzouq.com/i3XTQ2x4niub 
+    健康_4.22.9： https://www.123865.com/s/7AoDVv-vLrPH 
 软件商店_12.7.0beta1： https://jiumuze.lanzouq.com/i81wU2x4nj6d 
 智能家居_2.8.3： https://jiumuze.lanzouq.com/ieqtm2x4ngti 
 家人守护_15.0.18： https://jiumuze.lanzouq.com/ieHv02wteaha 
