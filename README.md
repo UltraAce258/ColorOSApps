@@ -114,7 +114,7 @@ PayJoy Access_5.1.2.0： https://jiumuze.lanzouq.com/iaC1e2xsed0b
   
 # ColorOSApps - **English Version**  
 ## Update on June 6, 2025    
-Reprinted from Coolapk @Jiumuze's compiled list of system software for OPPO, OnePlus, and Realme phones/tablets with download links, which will be updated with the Coolapk post.    
+Reprinted from Coolapk @玖炑泽's compiled list of system software for OPPO, OnePlus, and Realme phones/tablets with download links, which will be updated with the Coolapk post.    
 Suitable for OPPO, OnePlus, and Realme phones equipped with ColorOS 15 and RealmeUI 6.0. Specific compatibility needs self-testing.   
 Original post: https://coolapk.com/feed/65171179    
 Original author's homepage: http://www.coolapk.com/u/4803582  
