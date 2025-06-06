@@ -1,4 +1,5 @@
 # ColorOSApps
+## 2025年6月6日更新
 转载 酷安@玖炑泽 整理的欧加真手机/平板系统软件列表与下载链接，会随酷安贴更新。 
 
 适用于搭载ColorOS15、RealmeUI6.0的OPPO、一加、Realme手机，具体兼容性自测。以下为原文：
@@ -6,70 +7,103 @@
 #ColorOS15# #ColorOS14# #realmeUI6.0#  
 应用内/软件商店推送  
 ——————系统应用类——————  
-小布记忆_15.1.81： https://jiumuze.lanzouq.com/i3XTQ2x4niub   
-健康_4.22.9： https://www.123865.com/s/7AoDVv-vLrPH   
-软件商店_12.7.0beta1： https://jiumuze.lanzouq.com/i81wU2x4nj6d   
-智能家居_2.8.3： https://jiumuze.lanzouq.com/ieqtm2x4ngti   
-家人守护_15.0.18： https://jiumuze.lanzouq.com/ieHv02wteaha   
-使用技巧_15.30.0： https://jiumuze.lanzouq.com/igZGd2wt8lfi   
-OPPO 社区_4.44.2： https://jiumuze.lanzouq.com/iWLEe2wpjsjg   
-书城_3.39.0： https://jiumuze.lanzouq.com/iOpsN2ww21mh   
-便签_15.5.6： https://jiumuze.lanzouq.com/iT5y02wxk0dg   
-便签_15.4.18： https://jiumuze.lanzouq.com/iix4Z2wpj81i   
-小布助手_11.8.2： https://www.123865.com/s/7AoDVv-8zrPH   
-小布助手_11.8.1beta： https://www.123865.com/s/7AoDVv-xirPH   
-主题商店_13.6.5： https://jiumuze.lanzouq.com/ipRh22x37s5e   
-主题商店_13.6.5beta1： https://jiumuze.lanzouq.com/iHp3b2wpjj7a   
-视频_40.8.7.1： https://www.123865.com/s/7AoDVv-KirPH   
-视频_40.8.7.0.2beta： https://www.123865.com/s/7AoDVv-ttrPH   
-浏览器_40.9.11.0.2beta： https://www.123865.com/s/7AoDVv-y5rPH   
-浏览器_40.9.11.0.1beta： https://www.123865.com/s/7AoDVv-SirPH   
-钱包_5.37.5-1： https://www.123865.com/s/7AoDVv-dLrPH   
-钱包_5.37.5-0： https://www.123865.com/s/7AoDVv-1irPH   
-OPPO 商城_4.49.4： https://jiumuze.lanzouq.com/icRjN2x6wy5i   
-OPPO 商城_4.49.2： https://jiumuze.lanzouq.com/iFL5J2wpjw8j   
-众包_4.0.601： https://jiumuze.lanzouq.com/izYmF2wshccj   
-众包_4.0.600： https://jiumuze.lanzouq.com/iXluS2wptd2j   
-游戏助手_10.9.6： https://jiumuze.lanzouq.com/iPW1r2wxkdkb   
-游戏助手_10.9.4： https://jiumuze.lanzouq.com/iR5jQ2wshedc   
-游戏助手_10.9.3： https://jiumuze.lanzouq.com/iEQ1B2wpkaaf   
-相册_15.65.5-oneplus： https://www.123865.com/s/7AoDVv-q5rPH   
-相册_15.65.5-oppo： https://www.123865.com/s/7AoDVv-55rPH   
-相册_15.65.3-oneplus： https://www.123865.com/s/7AoDVv-L5rPH   
-相册_15.65.3-oppo： https://www.123865.com/s/7AoDVv-z5rPH   
+天气_15.16.19： https://jiumuze.lanzouq.com/iL0U02xsc0hi   
+便签_15.5.8： https://jiumuze.lanzouq.com/iJZqF2xc350b   
+音乐_40.10.31.43.0： https://jiumuze.lanzouq.com/iNdmd2xm3mzi   
+健康_4.22.10： https://www.123865.com/s/7AoDVv-DqrPH   
+游戏中心_14.10.1： https://jiumuze.lanzouq.com/iL2x62xm3lfc   
+小游戏_7.6.0： https://jiumuze.lanzouq.com/i9muJ2xm3hib   
+游戏助手_10.10.2： https://jiumuze.lanzouq.com/iXk3T2xio67g   
+游戏助手_10.10.1： https://jiumuze.lanzouq.com/it2H02xhuswd   
+OPPO 商城_4.49.6： https://jiumuze.lanzouq.com/iWsfR2xm3sih   
+OPPO 商城_4.49.5： https://jiumuze.lanzouq.com/iDkyo2xelrha   
+手机搬家_15.13.2： https://jiumuze.lanzouq.com/iubVf2xm3oje   
+手机搬家_15.13.0： https://jiumuze.lanzouq.com/iui5M2xenvmb   
+相册_15.65.20_sp1-realme： https://www.123865.com/s/7AoDVv-LVrPH   
+相册_15.65.6-oneplus： https://www.123865.com/s/7AoDVv-8qrPH   
+相册_15.65.6-oppo： https://www.123865.com/s/7AoDVv-0qrPH   
+主题商店_13.6.9beta1： https://jiumuze.lanzouq.com/ifat12xiovsh   
+主题商店_13.6.6： https://jiumuze.lanzouq.com/iwrmE2xhuv4d   
+主题商店_13.6.6beta1： https://jiumuze.lanzouq.com/iU5sc2xaqatg   
+软件商店_12.7.10beta1： https://jiumuze.lanzouq.com/iwss52xhuyfc   
+软件商店_12.7.0： https://jiumuze.lanzouq.com/iC9jI2xhv0gf   
+软件商店_12.7.0beta2： https://jiumuze.lanzouq.com/iy7wL2xapo5a   
+浏览器_40.9.12.0.1beta： https://www.123865.com/s/7AoDVv-SyrPH   
+浏览器_40.9.11.2： https://www.123865.com/s/7AoDVv-o6rPH   
+浏览器_40.9.11.1： https://www.123865.com/s/7AoDVv-KqrPH   
+Car+ 车联_15.15.1： https://jiumuze.lanzouq.com/iYllz2xs9g7g   
+Car+ 车联_15.15.0： https://jiumuze.lanzouq.com/iWdH62xm3kcd   
+Car+ 车联_14.15.1： https://jiumuze.lanzouq.com/iqqY82xs99if   
+Car+ 车联_14.15.0： https://jiumuze.lanzouq.com/ia7P22xm3ikj   
 ——————系统组件类——————  
-速览_15.16.6： https://jiumuze.lanzouq.com/i4Die2ww2she   
-快应用_9.9.1_domestic： https://jiumuze.lanzouq.com/i2Bze2wxkbla   
-无线耳机_15.7.7： https://jiumuze.lanzouq.com/iwwF92x4ngdc   
-乐划锁屏_40.9.45.0.1beta： https://jiumuze.lanzouq.com/i74Do2x4ngyd   
-帮助与反馈_15.80.42： https://jiumuze.lanzouq.com/iQ0HE2wxk4zc   
-账号中心_CN_9.12.1： https://jiumuze.lanzouq.com/i8XOj2wshj3c   
-安全支付_6.8.0.1： https://jiumuze.lanzouq.com/iOpuG2wpjlsd   
-搜狗输入法定制版_10.32.0522.2505091227： https://jiumuze.lanzouq.com/ilgKI2x6vkgj   
-全局搜索_11.42.2.20beta： https://jiumuze.lanzouq.com/iCsXm2x6wvbg   
-全局搜索_11.41.4.20beta： https://jiumuze.lanzouq.com/iWKlv2wxjyqh   
+屏幕录制_15.2.26： https://jiumuze.lanzouq.com/iC7BJ2xapaof   
+全局搜索_11.42.3.20： https://jiumuze.lanzouq.com/iX8MZ2xc2myb   
+快应用_9.9.5： https://jiumuze.lanzouq.com/iJfsn2xm3ukb   
+应用安装器_4.21.0beta1： https://jiumuze.lanzouq.com/i0MBq2xm3m4h   
+乐划锁屏_40.9.45.0.2beta： https://jiumuze.lanzouq.com/iFWqe2xelofa   
 ——————系统服务类——————  
-Commercial Service_3.4.5： https://jiumuze.lanzouq.com/i45lb2wxjzah   
-移动服务_2.1.38_8bff183_250520_btIn-shop_dom： https://jiumuze.lanzouq.com/idxMm2wte7sd   
-移动服务_2.1.38_8e20773_250515_btIn-shop_dom： https://jiumuze.lanzouq.com/im9qe2wptrwd   
+智慧决策服务_15.6.228： https://jiumuze.lanzouq.com/iUavq2xipd0h   
+服务治理框架_15.0.172： https://jiumuze.lanzouq.com/impsY2xemc8h   
+设备快莲_15.6.35： https://jiumuze.lanzouq.com/isBT92xc2lvc   
   
 软件更新提取/有需要再装  
 ——————系统应用类——————  
-禅定空间_15.0.26： https://jiumuze.lanzouq.com/itPlB2ww1vxc   
-学习空间_3.1.1： https://jiumuze.lanzouq.com/i3XEn2wtejbi   
-设置*15.200.0_250427-oneplus： https://www.123865.com/s/7AoDVv-t5rPH   
-相机*5.045.163_250515： https://www.123865.com/s/7AoDVv-c5rPH   
+日历_15.17.0： https://jiumuze.lanzouq.com/iKwpS2xis2ih   
+相册_15.66.0-oneplus： https://www.123865.com/s/7AoDVv-oyrPH   
+文档_15.11.34： https://www.123865.com/s/7AoDVv-kyrPH   
+小布记忆_15.1.82： https://jiumuze.lanzouq.com/iw02S2xiriva   
+逍遥游_15.10.1： https://jiumuze.lanzouq.com/iBVG22xirkij   
+小布扫一扫_15.2.4： https://jiumuze.lanzouq.com/iKot32xirpxe   
+禅定空间_15.2.00： https://jiumuze.lanzouq.com/i5W7T2xipgaf   
+相机*5.052.351： https://www.123865.com/s/7AoDVv-myrPH   
+文件管理_15.12.24： https://jiumuze.lanzouq.com/i2WtR2xirupg   
+文件管理_15.12.22： https://jiumuze.lanzouq.com/igudR2xelk6h   
 ——————系统组件类——————  
-儿童模式_15.1.0： https://jiumuze.lanzouq.com/i9TAa2wtedij   
-Omoji_15.0.34： https://jiumuze.lanzouq.com/iqYIy2wn0ekh   
-声音分轨_15.0.40： https://jiumuze.lanzouq.com/i99e02wzfcwj   
-速览_15.6.205： https://jiumuze.lanzouq.com/i1X9V2ww1qkj   
-电话_15.30.1： https://jiumuze.lanzouq.com/inNRr2x6trra   
-电池*1.2.6_250515： https://jiumuze.lanzouq.com/i7wSm2x6trkd   
-系统桌面*16.0.5： https://jiumuze.lanzouq.com/iBBbD2wmr34b   
-远程控制电脑_15.3.20： https://jiumuze.lanzouq.com/iYppp2ww0vsb   
-远程控制电脑_15.3.15： https://jiumuze.lanzouq.com/iMDud2wpmnid   
-壁纸_16.00.0002： https://jiumuze.lanzouq.com/iNkT92wn07te   
+远程控制电脑_15.3.25： https://jiumuze.lanzouq.com/iTbw22xp9tgf   
+系统卡包_5.35.5： https://jiumuze.lanzouq.com/i3SNo2xp9q7i   
+AI 语音摘记_15.5.10： https://jiumuze.lanzouq.com/i3ahu2xirghe   
+息屏_15.010.0009： https://jiumuze.lanzouq.com/i7Lir2xirduj   
+壁纸_15.09.0041： https://jiumuze.lanzouq.com/itnGh2xm3xsh   
+智能侧边栏_15.5.6： https://jiumuze.lanzouq.com/iiqMs2xircib   
+数字健康与家人守护_15.2.0： https://jiumuze.lanzouq.com/iL5Ny2xis61e   
+简易模式_15.0.14： https://jiumuze.lanzouq.com/iZnyv2xaqv1e   
+隐私沙箱_15.0.23： https://jiumuze.lanzouq.com/iBiEc2xipjfi   
+软件更新_15.2.7： https://jiumuze.lanzouq.com/iKLFV2xm3ywh   
+手机投屏_15.0.032： https://jiumuze.lanzouq.com/ipqkn2xm3zwd   
+无线设置_15.18.6： https://jiumuze.lanzouq.com/i2Vpo2xm40cj   
+速览_15.6.208： https://jiumuze.lanzouq.com/iK1vk2xiuc8j   
+电话*15.30.4： https://jiumuze.lanzouq.com/inEdx2xiug7c   
+人像绘影*15.002.0060： https://jiumuze.lanzouq.com/i1CU12xiuguf   
+智慧出行*15.0.15： https://jiumuze.lanzouq.com/iSutz2xiucub   
+流量管理_15.8.5： https://jiumuze.lanzouq.com/iaHfT2xirweh   
+流量管理_15.8.1： https://jiumuze.lanzouq.com/iXEPE2xiphkb   
+系统桌面_15.8.15： https://jiumuze.lanzouq.com/imFVt2xm40xa   
+系统桌面_15.6.13-realme： https://jiumuze.lanzouq.com/iWdxL2xipnjg   
+——————系统服务类——————  
+图形增强服务_15.2.1： https://jiumuze.lanzouq.com/inHjh2xirmtc   
+翻译服务_15.5.12： https://jiumuze.lanzouq.com/iLVI82xirlah   
+融合搜索服务_15.12.29： https://jiumuze.lanzouq.com/ihdGZ2xirfgh   
+设备服务_15.500.003： https://jiumuze.lanzouq.com/i6GUI2xirtxi   
+Carlink_15.0.20： https://jiumuze.lanzouq.com/iCo9R2xaqxdi   
+服务治理框架_15.0.168： https://jiumuze.lanzouq.com/iJ6oS2xeksdg   
+MediaTurbo*15.2.022： https://jiumuze.lanzouq.com/iiV8M2xiufyd   
+应用增强服务*15.0.172： https://jiumuze.lanzouq.com/it6tr2xiucof   
+智慧数据增强服务_15.0.620： https://jiumuze.lanzouq.com/ioasJ2xirryh   
+智慧数据增强服务_15.0.610： https://jiumuze.lanzouq.com/iQqq52xekx9c   
+  
+RealmeUI特供/软件更新提取  
+——————系统服务类——————  
+GT 模式_1.0.74： https://jiumuze.lanzouq.com/iXyn02xsd7fe   
+入眠胶囊_1.15.4： https://jiumuze.lanzouq.com/iuTHR2xscxyd   
+——————系统服务类——————  
+AI Gaming Coach_4.0.48： https://jiumuze.lanzouq.com/iRMbR2xsdt3e   
+图形增强服务_15.0.85： https://jiumuze.lanzouq.com/iJ5532xsedde   
+PayJoy Access_5.1.2.0： https://jiumuze.lanzouq.com/iaC1e2xsed0b   
+  
+下载注意事项：  
+1).若蓝奏云链接提示“非会员不在...，请先开通会员”可通过浏览器的电脑模式访问。  
+2).安装包均来源互联网，为官方未修改版本，若出现兼容问题需自行承担后果。    
+3).若安装时提示签名冲突说明新版更换了签名；提示“安装包损坏”或“安装失败”说明不支持当前的系统版本。  
 壁纸_15.09.0040： https://jiumuze.lanzouq.com/iC3hW2ww1nja   
 ——————系统服务类——————  
 融合搜索服务_15.12.25： https://jiumuze.lanzouq.com/ix5HB2wzf2mj   
