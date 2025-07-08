@@ -1,5 +1,5 @@
 # ColorOSApps  
-## 2025年6月13日更新（**See English version below**）  
+## 2025年7月6日更新（**See English version below**）  
   
 转载 酷安@玖炑泽 整理的欧加真手机/平板系统软件列表与下载链接，会随酷安贴更新。   
   
@@ -11,78 +11,94 @@
 以下为原文：  
   
 #ColorOS15# #ColorOS14# #realmeUI6.0#  
+时间范围:2025年06月30日-2025年07月06日  
 应用内/软件商店推送  
 ——————系统应用类——————  
-录音_16.0.5： https://jiumuze.lanzouq.com/i33s02y1dn5e   
-相册_15.70.0-oneplus： https://www.123865.com/s/7AoDVv-vT8PH   
-小布指令_15.2.2： https://jiumuze.lanzouq.com/iAGtW2yc228b   
-主题商店_13.7.0beta1： https://jiumuze.lanzouq.com/ipCpc2y62l0b   
-游戏中心_14.10.3： https://jiumuze.lanzouq.com/iCBtq2y0nhda   
-音乐_40.10.31.43.1： https://jiumuze.lanzouq.com/ikcuc2y4rw0f   
-钱包_5.38.0-1： https://www.123865.com/s/7AoDVv-tv8PH   
-健康_4.22.11： https://www.123865.com/s/7AoDVv-jjrPH   
-便签_15.5.14： https://jiumuze.lanzouq.com/ioKOA2y62nib   
-便签_15.5.12： https://jiumuze.lanzouq.com/iJvZB2xz1chg   
-时钟_15.9.6-oneplus： https://jiumuze.lanzouq.com/it2Lq2y8r9ne   
-时钟_15.9.6-oppo： https://jiumuze.lanzouq.com/iU0aJ2y62ola   
-浏览器_40.9.12.1： https://www.123865.com/s/7AoDVv-3d8PH   
-浏览器_40.9.12.0.2beta： https://www.123865.com/s/7AoDVv-2T8PH   
-视频_40.8.8.1： https://www.123865.com/s/7AoDVv-Lv8PH   
-视频_40.8.8.0.1beta：  
-https://www.123865.com/s/7AoDVv-ujrPH   
+小布指令_15.2.4： https://jiumuze.lanzouq.com/iB4Rn30acbjg   
+便签_15.5.18： https://jiumuze.lanzouq.com/iZExr302skod   
+信息_15.90.20： https://jiumuze.lanzouq.com/iTtyD2zzyutg   
+游戏中心_14.12.3： https://jiumuze.lanzouq.com/iNyIk2zzyvib   
+视频_40.8.9.2.1beta： https://www.123865.com/s/7AoDVv-PY8PH   
+OPPO 商城_4.52.1： https://jiumuze.lanzouq.com/iDTDk2zzyxoj   
+健康研究_1.29.3： https://jiumuze.lanzouq.com/i2gq130h62ed   
+时钟_15.10.2-oneplus(SOTA)： https://jiumuze.lanzouq.com/i6xch2zxli2h   
+文件管理_15.12.18(SOTA)： https://jiumuze.lanzouq.com/ih8Ur2zxlffc   
+小布记忆_15.1.112： https://jiumuze.lanzouq.com/iFZrz30ace7c   
+小布记忆_15.1.110： https://jiumuze.lanzouq.com/icyjx302song   
+游戏助手_10.12.3： https://jiumuze.lanzouq.com/iS09E30adbsb   
+游戏助手_10.12.2： https://jiumuze.lanzouq.com/iAlUL304knri   
+Car+ 车联_15.16.3： https://jiumuze.lanzouq.com/iY3zH30ayo7e   
+Car+ 车联_14.16.3： https://jiumuze.lanzouq.com/idI2k30aynzg   
+软件商店_12.9.0beta2： https://jiumuze.lanzouq.com/iTNWY30aypad   
+软件商店_12.9.0beta1： https://jiumuze.lanzouq.com/iN1MG3060n1e   
+音乐_40.10.31.44.2： https://jiumuze.lanzouq.com/i6mE930ayona   
+音乐_40.10.31.44.1： https://jiumuze.lanzouq.com/ishyz302ss4b   
+浏览器_40.9.14.0.2beta： https://www.123865.com/s/7AoDVv-jg8PH   
+浏览器_40.9.14.0.1beta： https://www.123865.com/s/7AoDVv-Pw8PH   
+钱包_5.3 .0-1： https://www.123865.com/s/7AoDVv-TF8PH   
+钱包_5.38.5-0： https://www.123865.com/s/7AoDVv-Tw8PH   
+我的 OPPO_CN_8.66.1beta： https://jiumuze.lanzouq.com/iGB3430aar9a   
+我的 OPPO_CN_8.66.0beta： https://jiumuze.lanzouq.com/itXF130aancj   
+我的一加_CN_8.66.1beta： https://jiumuze.lanzouq.com/imrvf30aavje   
+我的一加_CN_8.66.0beta： https://jiumuze.lanzouq.com/iGedi304iexi   
+相册_15.71.8-oneplus： https://www.123865.com/s/7AoDVv-GY8PH   
+相册_15.71.7-oppo： https://www.123865.com/s/7AoDVv-9F8PH   
+相册_15.71.7-oneplus： https://www.123865.com/s/7AoDVv-AF8PH   
+主题商店_13.9.0beta1： https://jiumuze.lanzouq.com/i6Dxp30ayobi   
+主题商店_13.8.1： https://jiumuze.lanzouq.com/i5IqM30anr3c   
+主题商店_13.8.1beta1： https://jiumuze.lanzouq.com/i3SPE30aaz3c   
+主题商店_13.8.0： https://jiumuze.lanzouq.com/ipJ7a2zzyx6b   
 ——————系统组件类——————  
-小布识屏_15.3.0： https://jiumuze.lanzouq.com/iiJwo2y8ra9g   
-无线耳机_15.8.1： https://jiumuze.lanzouq.com/igARV2ydlzyf   
-速览_15.16.7： https://jiumuze.lanzouq.com/ip9Se2yc1wob   
-乐划锁屏_40.9.45.1： https://jiumuze.lanzouq.com/iJOPR2xz0p8j   
-百度输入法定制版_8.5.301.672： https://www.123865.com/s/7AoDVv-ev8PH   
-搜狗输入法定制版_10.32.0522.2505291843： https://jiumuze.lanzouq.com/iZcuR2ydmgdg   
-OPPO 互传_15.11.15： https://jiumuze.lanzouq.com/iZVPY2y8r6yh   
-一加互传_15.11.15： https://jiumuze.lanzouq.com/i93Kb2y8r76f   
-realme 互传_15.11.15： https://jiumuze.lanzouq.com/iNFgw2y8r6fi   
-应用安装器_4.21.0： https://jiumuze.lanzouq.com/iaRjf2y8rare   
-应用安装器_4.21.0beta3： https://jiumuze.lanzouq.com/i9yAD2y0ne1a   
-Car+ 车联_15.15.2： https://jiumuze.lanzouq.com/iPKZ32ydm95g   
-Car+ 车联_14.15.2： https://jiumuze.lanzouq.com/iIQ7F2ydm5ah   
+速览_16.11.5： https://jiumuze.lanzouq.com/igaf830ayouh   
+小布识屏_15.3.4： https://jiumuze.lanzouq.com/iLv8N30abf5a   
+无线耳机_15.9.1： https://jiumuze.lanzouq.com/iUK9R30ant3e   
+全局搜索_11.44.1.20beta： https://jiumuze.lanzouq.com/iBJgw304ia1c   
+修复输入法定制版_10.32.0522.2507010007： https://jiumuze.lanzouq.com/iqSM130h6yde   
+手机投屏_15.0.030(SOTA)： https://jiumuze.lanzouq.com/idYBY2zxllle   
+智慧出行_15.0.14(SOTA)： https://jiumuze.lanzouq.com/iyZWO2zxlnvg   
+权限控制器_15.02.016(SOTA)： https://jiumuze.lanzouq.com/ibB7R302pb6d   
+快应用_9.10.1： https://jiumuze.lanzouq.com/itwoF30h6a6d   
+快应用_9.10.0： https://jiumuze.lanzouq.com/i8SzD2zzywgf   
 ——————系统服务类——————  
-识屏服务_15.6.0： https://jiumuze.lanzouq.com/iw0rN2y8ra3a   
-系统消息_5.23.12： https://jiumuze.lanzouq.com/iYlHX2y0nz1g   
-多彩引擎_13.8.39： https://jiumuze.lanzouq.com/iDpoI2y1d3gf   
-融合搜索服务_15.12.30： https://jiumuze.lanzouq.com/iQ4Hs2yc20ij   
-数据基础服务_5.8.87.00： https://jiumuze.lanzouq.com/iQwYr2y4s0ih   
-智慧数据增强服务_15.0.626： https://jiumuze.lanzouq.com/ikXEX2y8v5ab   
-智慧数据增强服务_15.0.620： https://jiumuze.lanzouq.com/iG6AV2y8r8hc   
+服务治理框架_15.0.182： https://jiumuze.lanzouq.com/iwpnZ30acawd   
+识屏服务_15.6.10： https://jiumuze.lanzouq.com/iDrGe30abbvc   
+系统消息_5.24.12： https://jiumuze.lanzouq.com/ih59e302skla   
+图形增强服务_15.0.99： https://jiumuze.lanzouq.com/i9ECP30h6saf   
+数据基础服务_5.8.89.00： https://jiumuze.lanzouq.com/ina3730actlg   
+移动服务_2.1.41_ca56f1f_250702_btIn-shop_dom： https://jiumuze.lanzouq.com/ipEP43060yih   
+智慧数据增强服务_15.0.644： https://jiumuze.lanzouq.com/iwN2N304iggd   
+智慧数据增强服务_15.0.642： https://jiumuze.lanzouq.com/ii3zN301yqbg   
   
 软件更新提取/有需要再装  
 ——————系统应用类——————  
-文件管理_15.12.26： https://jiumuze.lanzouq.com/i0M1z2y8r3ni   
-小布扫一扫_15.2.6： https://jiumuze.lanzouq.com/iyG9q2y8r3hc   
+禅定空间_15.2.1： https://jiumuze.lanzouq.com/i7mxa30bgxji   
+家人守护_15.0.20： https://jiumuze.lanzouq.com/iYpf730abpuf   
+时钟_15.10.4-oppo： https://jiumuze.lanzouq.com/iNiFd30abr2j   
+时钟_15.10.3-realme： https://jiumuze.lanzouq.com/idPPg30bhq0d   
+相册_15.70.30_sp1-realme： https://www.123865.com/s/7AoDVv-pF8PH   
 ——————系统组件类——————  
-AI 通话助手_15.3.6： https://jiumuze.lanzouq.com/iZEiu2y633va   
-高能户外模式_1.1.6： https://jiumuze.lanzouq.com/indBr2y637ra   
-无网畅聊_15.50.0： https://jiumuze.lanzouq.com/iGEqq2y8r3ch   
-声音分轨_15.0.41： https://jiumuze.lanzouq.com/iGjJy2y62uwh   
-简易模式_15.0.15： https://jiumuze.lanzouq.com/inSLO2y6349e   
-数字健康与家人守护_15.4.0： https://jiumuze.lanzouq.com/iWX0C2y8r39e   
-软件更新_15.2.9： https://jiumuze.lanzouq.com/i8O5P2y624ze   
-无线设置_15.18.7： https://jiumuze.lanzouq.com/iZnSn2y626of   
-速览_15.6.211： https://jiumuze.lanzouq.com/i4pxp2y628ha   
-电池*1.2.6_250522： https://jiumuze.lanzouq.com/iihSV2y622zc   
+儿童模式_15.1.1： https://jiumuze.lanzouq.com/iQx3u30bhzli   
+简易模式_15.0.16： https://jiumuze.lanzouq.com/iHZ8A30abumh   
+数字健康与家人守护_15.4.2： https://jiumuze.lanzouq.com/iGS3O30abw2j   
+安全键盘_16.0.1： https://jiumuze.lanzouq.com/iFUFD30bgvsf   
+Omoji_15.0.35： https://jiumuze.lanzouq.com/inwrQ30abmxa   
+系统桌面*15.8.12-realme： https://jiumuze.lanzouq.com/irYtC30hz7gj   
 ——————系统服务类——————  
-CarLink_15.0.22： https://jiumuze.lanzouq.com/iGzdd2y62vgh   
-翻译服务_15.5.60： https://jiumuze.lanzouq.com/iDwW32y62wah   
-识屏服务_15.5.2： https://jiumuze.lanzouq.com/iViYq2y0nwvi   
-MediaTurbo*15.2.023： https://jiumuze.lanzouq.com/ije4Q2y622qd   
+通行密钥_2.3.6： https://jiumuze.lanzouq.com/iG53z30abo1a   
+SmartEngine_12.0.126： https://jiumuze.lanzouq.com/iJpZZ30ab5za   
+  
+RealmeUI特供/软件更新提取  
+——————系统应用类——————  
+我的 realme_CN_8.53.3： https://jiumuze.lanzouq.com/i54u830bhu7e   
+——————系统服务类——————  
+AI Gaming Coach_4.0.54： https://jiumuze.lanzouq.com/ieUab30bhxsd   
   
 下载注意事项：  
 1).若蓝奏云链接提示“非会员不在...，请先开通会员”可通过浏览器的电脑模式访问。  
-2).安装包均来源互联网，为官方未修改版本，若出现兼容问题需自行承担后果。    
-3).若安装时提示签名冲突说明新版更换了签名；提示“安装包损坏”或“安装失败”说明不支持当前的系统版本。  
-  
-  
+2).安装包均来源互联网，为官方未修改版本，如出现兼容问题需自行承担后果。    
   
 # ColorOSApps    
-## Updated on June 13  
+## Updated on July 6  
   
 Reprinted from Coolapk @玖炑泽's compiled list of system software for OPPO, OnePlus, and Realme phones/tablets with download links, which will be updated with the Coolapk post.  
 Suitable for OPPO, OnePlus, and Realme phones equipped with ColorOS 15 and RealmeUI 6.0. Specific compatibility needs self-testing.    
@@ -93,75 +109,88 @@ Original author's homepage: http://www.coolapk.com/u/4803582
 The following is the **English translation** of the original text:  
   
 ### #ColorOS15# #ColorOS14# #realmeUI6.0#    
+Time range: June 30, 2025 - July 6, 2025  
 App internal/Software Store push    
 ——————System Apps——————    
-Recorder_16.0.5: https://jiumuze.lanzouq.com/i33s02y1dn5e    
-Gallery_15.70.0-oneplus: https://www.123865.com/s/7AoDVv-vT8PH    
-Breeno Commands_15.2.2: https://jiumuze.lanzouq.com/iAGtW2yc228b    
-Theme Store_13.7.0beta1: https://jiumuze.lanzouq.com/ipCpc2y62l0b    
-Game Center_14.10.3: https://jiumuze.lanzouq.com/iCBtq2y0nhda    
-Music_40.10.31.43.1: https://jiumuze.lanzouq.com/ikcuc2y4rw0f    
-Wallet_5.38.0-1: https://www.123865.com/s/7AoDVv-tv8PH    
-Health_4.22.11: https://www.123865.com/s/7AoDVv-jjrPH    
-Notes_15.5.14: https://jiumuze.lanzouq.com/ioKOA2y62nib    
-Notes_15.5.12: https://jiumuze.lanzouq.com/iJvZB2xz1chg    
-Clock_15.9.6-oneplus: https://jiumuze.lanzouq.com/it2Lq2y8r9ne    
-Clock_15.9.6-oppo: https://jiumuze.lanzouq.com/iU0aJ2y62ola    
-Browser_40.9.12.1: https://www.123865.com/s/7AoDVv-3d8PH    
-Browser_40.9.12.0.2beta: https://www.123865.com/s/7AoDVv-2T8PH    
-Video_40.8.8.1: https://www.123865.com/s/7AoDVv-Lv8PH    
-Video_40.8.8.0.1beta: https://www.123865.com/s/7AoDVv-ujrPH    
-  
+Breeno Commands_15.2.4: https://jiumuze.lanzouq.com/iB4Rn30acbjg   
+Notes_15.5.18: https://jiumuze.lanzouq.com/iZExr302skod   
+Messages_15.90.20: https://jiumuze.lanzouq.com/iTtyD2zzyutg   
+Game Center_14.12.3: https://jiumuze.lanzouq.com/iNyIk2zzyvib   
+Video_40.8.9.2.1beta: https://www.123865.com/s/7AoDVv-PY8PH   
+OPPO Store_4.52.1: https://jiumuze.lanzouq.com/iDTDk2zzyxoj   
+Health Research_1.29.3: https://jiumuze.lanzouq.com/i2gq130h62ed   
+Clock_15.10.2-oneplus(SOTA): https://jiumuze.lanzouq.com/i6xch2zxli2h   
+File Manager_15.12.18(SOTA): https://jiumuze.lanzouq.com/ih8Ur2zxlffc   
+Breeno Memory_15.1.112: https://jiumuze.lanzouq.com/iFZrz30ace7c   
+Breeno Memory_15.1.110: https://jiumuze.lanzouq.com/icyjx302song   
+Game Assistant_10.12.3: https://jiumuze.lanzouq.com/iS09E30adbsb   
+Game Assistant_10.12.2: https://jiumuze.lanzouq.com/iAlUL304knri   
+Car+ Auto_15.16.3: https://jiumuze.lanzouq.com/iY3zH30ayo7e   
+Car+ Auto_14.16.3: https://jiumuze.lanzouq.com/idI2k30aynzg   
+Software Store_12.9.0beta2: https://jiumuze.lanzouq.com/iTNWY30aypad   
+Software Store_12.9.0beta1: https://jiumuze.lanzouq.com/iN1MG3060n1e   
+Music_40.10.31.44.2: https://jiumuze.lanzouq.com/i6mE930ayona   
+Music_40.10.31.44.1: https://jiumuze.lanzouq.com/ishyz302ss4b   
+Browser_40.9.14.0.2beta: https://www.123865.com/s/7AoDVv-jg8PH   
+Browser_40.9.14.0.1beta: https://www.123865.com/s/7AoDVv-Pw8PH   
+Wallet_5.3 .0-1: https://www.123865.com/s/7AoDVv-TF8PH   
+Wallet_5.38.5-0: https://www.123865.com/s/7AoDVv-Tw8PH   
+My OPPO_CN_8.66.1beta: https://jiumuze.lanzouq.com/iGB3430aar9a   
+My OPPO_CN_8.66.0beta: https://jiumuze.lanzouq.com/itXF130aancj   
+My OnePlus_CN_8.66.1beta: https://jiumuze.lanzouq.com/imrvf30aavje   
+My OnePlus_CN_8.66.0beta: https://jiumuze.lanzouq.com/iGedi304iexi   
+Gallery_15.71.8-oneplus: https://www.123865.com/s/7AoDVv-GY8PH   
+Gallery_15.71.7-oppo: https://www.123865.com/s/7AoDVv-9F8PH   
+Gallery_15.71.7-oneplus: https://www.123865.com/s/7AoDVv-AF8PH   
+Theme Store_13.9.0beta1: https://jiumuze.lanzouq.com/i6Dxp30ayobi   
+Theme Store_13.8.1: https://jiumuze.lanzouq.com/i5IqM30anr3c   
+Theme Store_13.8.1beta1: https://jiumuze.lanzouq.com/i3SPE30aaz3c   
+Theme Store_13.8.0: https://jiumuze.lanzouq.com/ipJ7a2zzyx6b   
 ——————System Components——————    
-Breeno Screen识屏_15.3.0: https://jiumuze.lanzouq.com/iiJwo2y8ra9g    
-Wireless Headphones_15.8.1: https://jiumuze.lanzouq.com/igARV2ydlzyf    
-Quick View_15.16.7: https://jiumuze.lanzouq.com/ip9Se2yc1wob    
-Lehua Lock Screen_40.9.45.1: https://jiumuze.lanzouq.com/iJOPR2xz0p8j    
-Baidu Input Method Custom Version_8.5.301.672: https://www.123865.com/s/7AoDVv-ev8PH    
-Sogou Input Method Custom Version_10.32.0522.2505291843: https://jiumuze.lanzouq.com/iZcuR2ydmgdg    
-OPPO Share_15.11.15: https://jiumuze.lanzouq.com/iZVPY2y8r6yh    
-OnePlus Share_15.11.15: https://jiumuze.lanzouq.com/i93Kb2y8r76f    
-realme Share_15.11.15: https://jiumuze.lanzouq.com/iNFgw2y8r6fi    
-App Installer_4.21.0: https://jiumuze.lanzouq.com/iaRjf2y8rare    
-App Installer_4.21.0beta3: https://jiumuze.lanzouq.com/i9yAD2y0ne1a    
-Car+ Auto_15.15.2: https://jiumuze.lanzouq.com/iPKZ32ydm95g    
-Car+ Auto_14.15.2: https://jiumuze.lanzouq.com/iIQ7F2ydm5ah    
-  
+Quick View_16.11.5: https://jiumuze.lanzouq.com/igaf830ayouh   
+Breeno Screen_15.3.4: https://jiumuze.lanzouq.com/iLv8N30abf5a   
+Wireless Headphones_15.9.1: https://jiumuze.lanzouq.com/iUK9R30ant3e   
+Global Search_11.44.1.20beta: https://jiumuze.lanzouq.com/iBJgw304ia1c   
+Fixed Input Method Custom Version_10.32.0522.2507010007: https://jiumuze.lanzouq.com/iqSM130h6yde   
+Phone Screen Casting_15.0.030(SOTA): https://jiumuze.lanzouq.com/idYBY2zxllle   
+Smart Travel_15.0.14(SOTA): https://jiumuze.lanzouq.com/iyZWO2zxlnvg   
+Permission Controller_15.02.016(SOTA): https://jiumuze.lanzouq.com/ibB7R302pb6d   
+Quick App_9.10.1: https://jiumuze.lanzouq.com/itwoF30h6a6d   
+Quick App_9.10.0: https://jiumuze.lanzouq.com/i8SzD2zzywgf   
 ——————System Services——————    
-Screen Recognition Service_15.6.0: https://jiumuze.lanzouq.com/iw0rN2y8ra3a    
-System Messages_5.23.12: https://jiumuze.lanzouq.com/iYlHX2y0nz1g    
-Colorful Engine_13.8.39: https://jiumuze.lanzouq.com/iDpoI2y1d3gf    
-Integrated Search Service_15.12.30: https://jiumuze.lanzouq.com/iQ4Hs2yc20ij    
-Data Basic Service_5.8.87.00: https://jiumuze.lanzouq.com/iQwYr2y4s0ih    
-Smart Data Enhancement Service_15.0.626: https://jiumuze.lanzouq.com/ikXEX2y8v5ab    
-Smart Data Enhancement Service_15.0.620: https://jiumuze.lanzouq.com/iG6AV2y8r8hc    
-  
+Service Governance Framework_15.0.182: https://jiumuze.lanzouq.com/iwpnZ30acawd   
+Screen Recognition Service_15.6.10: https://jiumuze.lanzouq.com/iDrGe30abbvc   
+System Messages_5.24.12: https://jiumuze.lanzouq.com/ih59e302skla   
+Graphics Enhancement Service_15.0.99: https://jiumuze.lanzouq.com/i9ECP30h6saf   
+Data Basic Service_5.8.89.00: https://jiumuze.lanzouq.com/ina3730actlg   
+Mobile Service_2.1.41_ca56f1f_250702_btIn-shop_dom: https://jiumuze.lanzouq.com/ipEP43060yih   
+Smart Data Enhancement Service_15.0.644: https://jiumuze.lanzouq.com/iwN2N304iggd   
+Smart Data Enhancement Service_15.0.642: https://jiumuze.lanzouq.com/ii3zN301yqbg   
   
 ### Software Update Extraction (install only if needed)    
 ——————System Apps——————    
-File Manager_15.12.26: https://jiumuze.lanzouq.com/i0M1z2y8r3ni    
-Breeno Scan_15.2.6: https://jiumuze.lanzouq.com/iyG9q2y8r3hc    
-  
+Zen Space_15.2.1: https://jiumuze.lanzouq.com/i7mxa30bgxji   
+Family Guardian_15.0.20: https://jiumuze.lanzouq.com/iYpf730abpuf   
+Clock_15.10.4-oppo: https://jiumuze.lanzouq.com/iNiFd30abr2j   
+Clock_15.10.3-realme: https://jiumuze.lanzouq.com/idPPg30bhq0d   
+Gallery_15.70.30_sp1-realme: https://www.123865.com/s/7AoDVv-pF8PH   
 ——————System Components——————    
-AI Call Assistant_15.3.6: https://jiumuze.lanzouq.com/iZEiu2y633va    
-High-Energy Outdoor Mode_1.1.6: https://jiumuze.lanzouq.com/indBr2y637ra    
-Offline Chat_15.50.0: https://jiumuze.lanzouq.com/iGEqq2y8r3ch    
-Sound Track Separation_15.0.41: https://jiumuze.lanzouq.com/iGjJy2y62uwh    
-Simple Mode_15.0.15: https://jiumuze.lanzouq.com/inSLO2y6349e    
-Digital Health & Family Guardian_15.4.0: https://jiumuze.lanzouq.com/iWX0C2y8r39e    
-Software Update_15.2.9: https://jiumuze.lanzouq.com/i8O5P2y624ze    
-Wireless Settings_15.18.7: https://jiumuze.lanzouq.com/iZnSn2y626of    
-Quick View_15.6.211: https://jiumuze.lanzouq.com/i4pxp2y628ha    
-Battery*1.2.6_250522: https://jiumuze.lanzouq.com/iihSV2y622zc    
-  
+Kids Space_15.1.1: https://jiumuze.lanzouq.com/iQx3u30bhzli   
+Simple Mode_15.0.16: https://jiumuze.lanzouq.com/iHZ8A30abumh   
+Digital Health & Family Guardian_15.4.2: https://jiumuze.lanzouq.com/iGS3O30abw2j   
+Secure Keyboard_16.0.1: https://jiumuze.lanzouq.com/iFUFD30bgvsf   
+Omoji_15.0.35: https://jiumuze.lanzouq.com/inwrQ30abmxa   
+System Launcher*15.8.12-realme: https://jiumuze.lanzouq.com/irYtC30hz7gj   
 ——————System Services——————    
-CarLink_15.0.22: https://jiumuze.lanzouq.com/iGzdd2y62vgh    
-Translation Service_15.5.60: https://jiumuze.lanzouq.com/iDwW32y62wah    
-Screen Recognition Service_15.5.2: https://jiumuze.lanzouq.com/iViYq2y0nwvi    
-MediaTurbo*15.2.023: https://jiumuze.lanzouq.com/ije4Q2y622qd    
+Passkey_2.3.6: https://jiumuze.lanzouq.com/iG53z30abo1a   
+SmartEngine_12.0.126: https://jiumuze.lanzouq.com/iJpZZ30ab5za   
   
+### RealmeUI Special / Software Update Extraction  
+——————System Apps——————    
+My realme_CN_8.53.3: https://jiumuze.lanzouq.com/i54u830bhu7e   
+——————System Services——————    
+AI Gaming Coach_4.0.54: https://jiumuze.lanzouq.com/ieUab30bhxsd   
   
 ### Download Notes:    
 1) If the Lanzou Cloud link prompts "Non-members are not in... Please subscribe to a membership first", access it via the desktop mode of your browser.    
 2) All installation packages are sourced from the internet and are official unmodified versions. If compatibility issues arise, you need to bear the consequences yourself.    
-3) If a signature conflict is prompted during installation, it indicates that the new version has changed the signature; prompting "Installation package is damaged" or "Installation failed" indicates that the current system version is not supported.  
